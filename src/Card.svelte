@@ -4,7 +4,6 @@
     // component props
     // Camel case not supported for props, see drawback section.
     export let card_title, card_desc, card_img
-    import Button from './Button.svelte'
 </script>
 
 <main>
